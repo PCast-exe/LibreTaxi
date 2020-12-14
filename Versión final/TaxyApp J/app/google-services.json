@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "529755740896",
+    "firebase_url": "https://uber-7b0c9.firebaseio.com",
+    "project_id": "uber-7b0c9",
+    "storage_bucket": "uber-7b0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529755740896:android:b546094f853a27978b4e85",
+        "android_client_info": {
+          "package_name": "com.example.taxiupslp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529755740896-b93pgmbafvnrjrrcnp0cqbg4gitkjrd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taxiupslp",
+            "certificate_hash": "c7be29ecee88caf903fb2f3533382cc7eb78c359"
+          }
+        },
+        {
+          "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtAOyBc0gDVYUZcZkzyhbBJ7YW5GZsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529755740896:android:90eed36c157c5fc68b4e85",
+        "android_client_info": {
+          "package_name": "com.ingenieria.taxyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtAOyBc0gDVYUZcZkzyhbBJ7YW5GZsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529755740896:android:d7811de79ec4190d8b4e85",
+        "android_client_info": {
+          "package_name": "com.ingenieria.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtAOyBc0gDVYUZcZkzyhbBJ7YW5GZsNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529755740896-bop1c1ht3vo8an5d3n62jdq3ojp689ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

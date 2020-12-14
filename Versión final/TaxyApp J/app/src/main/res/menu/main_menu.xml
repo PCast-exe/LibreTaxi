@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_viajes"
+            android:title="@string/viajes"
+            android:icon="@drawable/ic_viajes_24dp"
+            />
+
+        <item
+            android:id="@+id/nav_pago"
+            android:title="@string/pago"
+            android:icon="@drawable/ic_payment_black_24dp"
+            />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="@string/perfil">
+
+            <menu>
+                <item
+                    android:id="@+id/nav_perfil"
+                    android:title="@string/editar_perfil"
+                    android:icon="@drawable/ic_editar_dp"
+                    />
+
+                <item
+                    android:id="@+id/nav_log"
+                    android:title="@string/cerrar_sesi_n"
+                    android:icon="@drawable/ic_sesion_24dp"
+                    />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="@string/informaci_n">
+        <menu>
+            <item
+                android:id="@+id/nav_cerca"
+                android:title="@string/acerca_de"
+                android:icon="@drawable/ic_info_black_24dp"
+                />
+
+            <item
+                android:id="@+id/nav_ayuda"
+                android:title="@string/ayuda"
+                android:icon="@drawable/ic_ayuda_24dp"
+                />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TaxyApp</string>
+    <string name="title_activity_user_map">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_selec_ubi">Map</string>
+    <string name="title_activity_confrim_travel">Map</string>
+    <string name="title_activity_travel">Map</string>
+    <string name="title_activity_travelinfo">Map</string>
+    <string name="title_activity_cancel">Map</string>
+    <string name="title_activity_cancelar">Map</string>
+    <string name="quieres_cancelar_el_viaje">¿Quieres cancelar el viaje?</string>
+    <string name="se_cobrar">Se cobrará:</string>
+    <string name="_40_mxn">$40 MXN</string>
+    <string name="si">SI</string>
+    <string name="no">NO</string>
+    <string name="todo">TODO</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="registrate">Registrate</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="todo">TODO</string>
+    <string name="viajes">Viajes</string>
+    <string name="pago">Pago</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="perfil">Perfil</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="informaci_n">Información</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="ayuda">Ayuda</string>
+</resources>
